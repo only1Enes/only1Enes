@@ -3,4 +3,4 @@
 
 - Contact:
  - Mail: enes@sofixa.com
-![](https://komarev.com/ghpvc/?username=only1Enes&color=brightgreen&style=for-the-badge&label=Profile Views:)
+![](https://komarev.com/ghpvc/?username=only1Enes&color=brightgreen&style=for-the-badge)
